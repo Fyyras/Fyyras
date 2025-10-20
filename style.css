@@ -24,7 +24,7 @@ body {
       animation: flow 12s ease infinite;
     }
 
-    @keyframes flow {
+@keyframes flow {
       0% {
         background-position: 0% 50%;
       }
@@ -35,7 +35,6 @@ body {
         background-position: 0% 50%;
       }
     }
-}
 footer{
     background-color: grey;
     border-radius: 50px;
@@ -68,3 +67,4 @@ li{
     width: 100%;
 
 }
+
