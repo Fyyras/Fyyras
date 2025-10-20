@@ -10,15 +10,8 @@ h1{
     
 }
 body {
-      margin: 0;
-      height: 100vh;
       display: flex;
-      align-items: center;
-      justify-content: center;
       font-family: Arial, sans-serif;
-      font-size: 2rem;
-      color: white;
-      text-shadow: 0 0 10px rgba(0,0,0,0.5);
       background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff);
       background-size: 800% 800%;
       animation: flow 12s ease infinite;
@@ -67,4 +60,5 @@ li{
     width: 100%;
 
 }
+
 
