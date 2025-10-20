@@ -10,8 +10,6 @@ h1{
     
 }
 body {
-      display: flex;
-      font-family: Arial, sans-serif;
       background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff);
       background-size: 800% 800%;
       animation: flow 12s ease infinite;
@@ -60,5 +58,6 @@ li{
     width: 100%;
 
 }
+
 
 
